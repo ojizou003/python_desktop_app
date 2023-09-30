@@ -99,4 +99,5 @@ while True:
 
 - Text(テキスト)
 - Input(インプット)
-- 
+---
+kindleUnlimited 解約 __ここまで
